@@ -1,0 +1,18 @@
+{
+  "district": "d300",
+  "timezone": "America/Chicago",
+  "weeksBack": 1,
+  "weeksAhead": 5,
+  "feeds": {
+    "eastview-lunch": {
+      "school": "eastview-elementary",
+      "menuType": "lunch",
+      "schoolName": "Eastview"
+    },
+    "algonquin-lunch": {
+      "school": "algonquin-ms",
+      "menuType": "lunch",
+      "schoolName": "Algonquin MS"
+    }
+  }
+}
